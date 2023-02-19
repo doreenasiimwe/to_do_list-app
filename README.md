@@ -1,2 +1,2 @@
 # to_do_list-app
-using pure javascript,html and css
+using pure javascript , html and css
